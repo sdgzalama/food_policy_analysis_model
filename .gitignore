@@ -1,0 +1,29 @@
+# Secrets & credentials
+.streamlit/
+*.env
+*.key
+*.pem
+*_credentials.json
+*service*.json
+*sa*.json
+food_analyzer.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Notebooks, temp, caches
+*.ipynb_checkpoints
+.mypy_cache/
+.pytest_cache/
+.cache/
+*.log
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
