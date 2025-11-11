@@ -43,7 +43,7 @@ except Exception:
 # ===============================
 # App config + Theme (Deep Purple, professional)
 # ===============================
-st.set_page_config(page_title="Food Policy Analyzer", layout="wide")
+st.set_page_config(page_title="Food Policy AND NCDS MODEL", layout="wide")
 
 st.markdown("""
 <style>
